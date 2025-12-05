@@ -1,4 +1,4 @@
-# **DOCUMENTO 6 — PROTOCOLO DE ATUALIZAÇÃO DA LICENSE v4**
+# PROTOCOLO DE ATUALIZAÇÃO DA LICENSE v4
 
 ### _Ciclo Estrutural Vivo para Evolução, Validação e Refinamento da Lichtara License_
 
