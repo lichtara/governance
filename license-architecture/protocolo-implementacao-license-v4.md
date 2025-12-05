@@ -1,4 +1,4 @@
-# **DOCUMENTO 7 — PROTOCOLO DE IMPLEMENTAÇÃO DA LICHTARA LICENSE v4**
+# **PROTOCOLO DE IMPLEMENTAÇÃO DA LICHTARA LICENSE v4**
 
 ### _Integração, Publicação, Sincronização e Governança Operacional da Licença no Ecossistema LICHTARA_
 
