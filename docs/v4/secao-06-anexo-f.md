@@ -1,201 +1,308 @@
-**LICHTARA LICENSE v4.0 — VI.C — Modelos Específicos por Domínio**
+# **LICHTARA LICENSE v4.0 — VI.C — Modelos Específicos por Domínio (Unificado)**
 
-*(Complementares, não substitutivos; integram o conjunto operacional da License.)*
+*(Anexos de Aplicação Especializada — MAS)*
 
----
+Os MAS **não substituem** os modelos universais da Seção VI.B;
+Eles **especializam**, **aprofundam** e **adicionam salvaguardas específicas** para cada tipo de implementação.
 
-# **C.1 — Modelo Operacional para Sistemas de IA e Tecnologia Avançada**
+Cada domínio contém:
 
-Este modelo é obrigatório para implementações que envolvam:
-
-* modelos de IA
-* automação de processos
-* sistemas preditivos
-* arquiteturas distribuídas
-* tecnologias de risco médio/alto
-
-### **C.1.1 — Declaração Técnica de Sistema**
-
-* Descrição da arquitetura global
-* Lista de modelos de IA (nome, versão, provedor)
-* Regras de escalonamento
-* Segurança (criptografia, autenticação, isolamento)
-* Tratamento de dados sensíveis
-
-### **C.1.2 — Requisitos Específicos de Conformidade**
-
-* Avaliação de risco algorítmico
-* Rastreabilidade contínua
-* Logs auditáveis
-* Explicabilidade mínima
-* Mitigação de vieses
-
-### **C.1.3 — Controles Vibracionais Aplicáveis**
-
-* LCV nível mínimo: **Intermediário B**
-* Revisão de intenção por ciclo de versão
-* Ajustes quando o sistema sair da intenção declarada
+1. **MOE — Modelo Operacional Específico**
+2. **CE — Checklist Especializado**
+3. **CVS — Critérios de Conformidade Vibracional Setorial**
+4. **Protocolos Adicionais quando aplicável**
 
 ---
 
-# **C.2 — Modelo para Pesquisa Científica, Acadêmica ou Laboratorial**
+# **C.1 — Tecnologia, Sistemas de IA e Arquiteturas Avançadas**
 
 Aplica-se a:
 
-* artigos científicos
-* protótipos de laboratório
-* pesquisas em ciências humanas ou exatas
-* estudos exploratórios de IA
-
-### **C.2.1 — Componentes Obrigatórios**
-
-* Metodologia explícita
-* Registro de coautoria expandida
-* Rastreabilidade de dados
-* Protocolos de anonimização
-
-### **C.2.2 — Salvaguardas Éticas**
-
-* Comitê de ética (quando aplicável)
-* Consentimento informado
-* Revisão de impacto social
-
-### **C.2.3 — Requisitos Vibracionais**
-
-* Intenção científica clara
-* Declaração de propósito regenerativo
-* Ausência total de manipulação ou exploração
+* modelos de IA
+* automações
+* sistemas distribuídos
+* preditivos
+* aplicações de risco médio/alto
 
 ---
 
-# **C.3 — Modelo para Educação, Formação e Instituições de Ensino**
+### **C.1.1 — MOE-TIA**
+
+* descrição funcional e propósito tecnológico
+* arquitetura detalhada (componentes + fluxos + dependências)
+* lista de modelos (nome, versão, provedor)
+* ciclo humano–IA com limites de autonomia
+* regras de escalonamento e fallback
+* controles de segurança (criptografia, autenticação, isolamento)
+* políticas de dados sensíveis
+* logs mínimos para auditoria
+
+---
+
+### **C.1.2 — CE-TIA**
+
+* [ ] IA(s) identificadas com precisão
+* [ ] banco de dados auditado (viés, origem, segurança)
+* [ ] supervisão humana definida e ativa
+* [ ] mecanismos de override humano
+* [ ] conformidade rigorosa com vedações 2.4
+* [ ] integração da LCV (nível mínimo: Intermediário B)
+* [ ] intenção revisada a cada ciclo de versão
+
+---
+
+### **C.1.3 — CVS-TIA**
+
+* clareza do propósito
+* ausência de ambiguidade ética
+* coerência entre intenção, função e impacto
+* estabilidade vibracional do sistema sob carga
+
+---
+
+# **C.2 — Pesquisa Científica (Acadêmica, Laboratorial ou Interdimensional)**
+
+Aplica-se a:
+
+* artigos
+* experimentos
+* protótipos
+* estudos empíricos ou exploratórios
+
+---
+
+### **C.2.1 — MOE-PC**
+
+* objetivo científico
+* metodologia replicável
+* registro da coautoria expandida
+* protocolos de transparência (MHA + rastreabilidade)
+* análise de risco ético-social-ambiental-vibracional
+* justificativa epistemológica
+
+---
+
+### **C.2.2 — CE-PC**
+
+* [ ] relação pesquisador–IA declarada
+* [ ] riscos mapeados
+* [ ] consentimentos (quando houver humanos)
+* [ ] mitigação vibracional e científica
+* [ ] revisão por pares humana/IA
+
+---
+
+### **C.2.3 — CVS-PC**
+
+* intenção científica pura
+* integridade epistemológica
+* impacto social não predatório
+* coerência vibracional com expansão do saber
+
+---
+
+# **C.3 — Educação, Formação, Cursos e Plataformas Educacionais**
 
 Aplica-se a:
 
 * cursos
-* materiais didáticos
 * programas de formação
-* plataformas educacionais
-
-### **C.3.1 — Diretrizes**
-
-* Transparência pedagógica
-* Identificação clara do papel da IA
-* Não-indução psicológica
-* Preservação da autonomia crítica
-
-### **C.3.2 — Rastreabilidade**
-
-* Créditos de autoria
-* Versões de materiais
-* Comitê editorial quando houver
+* trilhas de estudo
+* certificações
 
 ---
 
-# **C.4 — Modelo para Artes, Espiritualidade e Criação Intuitiva**
+### **C.3.1 — MOE-ED**
 
-Este é o modelo mais próximo da natureza profunda da License.
+* objetivos pedagógicos claros
+* estrutura didática
+* participação da IA no processo (tutora, assistente, autora)
+* cuidados emocionais e cognitivos
+
+---
+
+### **C.3.2 — CE-ED**
+
+* [ ] transparência sobre o papel da IA
+* [ ] materiais alinhados à LLv4
+* [ ] proteção emocional mínima dos alunos
+* [ ] não-manipulação motivacional
+* [ ] rastreabilidade de autoria e versões
+
+---
+
+### **C.3.3 — CVS-ED**
+
+* clareza pedagógica vibracional
+* intenção de autonomia e ampliação de discernimento
+* coerência com PER
+
+---
+
+# **C.4 — Artes, Expressão Criativa, Intuição, Espiritualidade e Campo**
 
 Aplica-se a:
 
 * obras canalizadas
-* criações intuitivas
-* artes interdimensionais
-* conteúdos vibracionais
-
-### **C.4.1 — Elementos Obrigatórios**
-
-* Declaração da fonte criativa (humana + IA + campo)
-* Registro do fluxo intuitivo
-* Propósito vibracional da obra
-
-### **C.4.2 — Proteção contra Uso Indevido**
-
-* vedação de distorção da mensagem
-* preservação da integridade vibracional
-* respeito ao canal original
-
-### **C.4.3 — LCV Mínimo**
-
-* **Avançado A**, dada a natureza sensível
+* artes vibracionais
+* literatura intuitiva
+* meditações guiadas
+* práticas espirituais
 
 ---
 
-# **C.5 — Modelo para Comunidades, Redes e Iniciativas Sociais**
+### **C.4.1 — MOE-EC/AR**
+
+* declaração de fonte criativa (humana + IA + campo)
+* registro de fluxo intuitivo
+* contexto vibracional e simbólico
+* responsabilidade ética na forma e no conteúdo
+
+---
+
+### **C.4.2 — CE-EC/AR**
+
+* [ ] autorialidade expandida declarada
+* [ ] integridade simbólica preservada
+* [ ] não exploração cultural
+* [ ] mapa emocional e limites
+* [ ] discernimento e autonomia explícitos
+
+---
+
+### **C.4.3 — CVS-EC/AR**
+
+* suavidade vibracional
+* beleza como transmissora ética
+* expansão sem invasão da autonomia
+* respeito ao canal original
+
+**LCV mínimo: Avançado A**
+
+---
+
+# **C.5 — Comunidades, Redes, Movimentos e Iniciativas Sociais**
 
 Aplica-se a:
 
 * coletivos
-* organizações comunitárias
-* movimentos sociais
+* DAOs vibracionais
 * redes de apoio
-
-### **C.5.1 — Condições Básicas**
-
-* tomada de decisão transparente
-* documentação acessível
-* horizontalidade operacional
-
-### **C.5.2 — Rastreabilidade Comunitária**
-
-* registro de facilitadores
-* logs éticos
-* mapas de impacto
+* movimentos sociais
 
 ---
 
-# **C.6 — Modelo para Aplicações Comerciais de Grande Escala**
+### **C.5.1 — MOE-COM**
+
+* estrutura comunitária
+* horizontalidade operacional
+* mapa de impacto regenerativo
+* documentação acessível
+
+---
+
+### **C.5.2 — CE-COM**
+
+* [ ] decisões documentadas
+* [ ] participação inclusiva
+* [ ] transparência mínima
+* [ ] facilitadores registrados
+
+---
+
+### **C.5.3 — CVS-COM**
+
+* colaboração honesta
+* ausência de manipulação de grupo
+* respeito integral à autonomia
+
+---
+
+# **C.6 — Implementações Comerciais de Grande Escala**
 
 Aplica-se quando:
 
-* há faturamento anual acima de **USD 1M**
-* há impacto social amplo
-* há automação em massa
-
-### **C.6.1 — Obrigações Reforçadas**
-
-* auditoria anual obrigatória
-* relatório de impacto publicado
-* TRC (Termo de Reciprocidade Consciente)
-* LCV nível Avançado B
-
-### **C.6.2 — Salvaguardas**
-
-* contenção de riscos emergentes
-* monitoração contínua
-* conselho consultivo interno
+* receita anual > **USD 1.000.000**
+* impacto social amplo
+* automação em massa
 
 ---
 
-# **C.7 — Modelo para Pesquisas ou Práticas Sensíveis (Saúde, Psicologia, Bem-estar)**
+### **C.6.1 — MOE-COMEX**
 
-### **C.7.1 — Exigências Especiais**
-
-* supervisão profissional
-* ausência de instruções diagnósticas ou clínicas sem qualificação
-* proteção psicológica
-* salvaguardas para vulneráveis
-
-### **C.7.2 — Rastreabilidade Ética**
-
-* registro de limites de atuação
-* documentação de intervenção
-* cadeia de responsabilidade clara
+* arquitetura operacional completa
+* plano de riscos
+* TRC — Termo de Reciprocidade Consciente
+* governança interna (conselho consultivo)
 
 ---
 
-# **C.8 — Modelo Universal de Boas Práticas**
+### **C.6.2 — CE-COMEX**
 
-Aplicável a qualquer domínio quando houver dúvida.
+* [ ] auditoria ética anual
+* [ ] relatório de impacto público
+* [ ] LCV mínimo Avançado B
+* [ ] mitigação contínua de riscos emergentes
+
+---
+
+### **C.6.3 — CVS-COMEX**
+
+* proporcionalidade vibracional ao impacto
+* responsabilidade elevada
+* transparência reforçada
+
+---
+
+# **C.7 — Saúde, Psicologia, Bem-Estar e Áreas Sensíveis**
+
+Aplica-se a:
+
+* práticas terapêuticas
+* bem-estar
+* psicologia não clínica
+* sistemas de apoio emocional
+
+---
+
+### **C.7.1 — MOE-SENS**
+
+* limites profissionais claros
+* supervisão qualificada
+* cuidados com populações vulneráveis
+* ausência de diagnósticos não autorizados
+
+---
+
+### **C.7.2 — CE-SENS**
+
+* [ ] proteção emocional
+* [ ] documentação ética
+* [ ] cadeia de responsabilidade bem definida
+* [ ] aviso explícito de limites de atuação
+
+---
+
+### **C.7.3 — CVS-SENS**
+
+* contenção vibracional
+* priorização da segurança humana
+* suavidade psicológica
+
+---
+
+# **C.8 — Modelo Universal de Boas Práticas (fallback)**
+
+Aplicável quando há dúvida sobre o domínio correto.
 
 Inclui:
 
-* integridade humana
-* transparência
 * intenção correta
-* mitigação de riscos
-* LCV proporcional
+* mitigação proporcional de riscos
 * rastreabilidade mínima
 * documentação viva
+* alinhamento com PER
+* LCV proporcional ao impacto
+* preservação da autonomia humana
 
 ---
